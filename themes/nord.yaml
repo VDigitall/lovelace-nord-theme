@@ -102,3 +102,6 @@ nord:
   dry-color: "#EBCB8B"
   idle-color: "#D8DEE9"
   unknown-color: "#B48EAD"
+
+  ### HACS ###
+  hacs-status-installed: var(--google-green-500)
